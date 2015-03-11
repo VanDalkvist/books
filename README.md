@@ -1,5 +1,4 @@
 # books
-Books store
 
 
 * [The Peripheral - by William Gibson](http://www.barnesandnoble.com/w/the-peripheral-william-gibson/1118663134?ean=9780399158445)
